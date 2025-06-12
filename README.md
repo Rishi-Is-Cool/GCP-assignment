@@ -34,9 +34,6 @@ Set up a system where uploading a file to a Cloud Storage bucket automatically t
 - ✅ Captured logs from Cloud Run (7 screenshots)
 - ✅ Pulled messages from Pub/Sub (1 screenshot)
 
----
-
-## 📝 Example Log Output
 
 
 
